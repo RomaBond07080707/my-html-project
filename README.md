@@ -1,2 +1,2 @@
-# my-html-project
-my-html-project
+# mineshackbot
+MinesHack BOT
